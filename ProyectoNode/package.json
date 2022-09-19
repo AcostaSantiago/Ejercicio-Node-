@@ -1,0 +1,15 @@
+{
+  "name": "proyectonode",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript con Node",
+  "main": "aa;.js",
+  "scripts": {
+    "saludar": "node holamundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "Santiago Acosta",
+  "license": "ISC"
+}
